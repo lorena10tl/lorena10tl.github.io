@@ -1,0 +1,12 @@
+div {background-color:rgb(255, 240, 102)}
+#a {background-color:rgb(255, 165, 153)}
+#b {background-color: rgb(154, 185, 212)}
+a{
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+}
+.centrado{margin:10px auto; display: block;}
+h1 {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif}
+p{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
+body{background-color: black}
