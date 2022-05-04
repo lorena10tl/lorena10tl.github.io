@@ -1,6 +1,12 @@
+
+body {background-color:black}
+
 div {background-color:rgb(255, 240, 102)}
 #a {background-color:rgb(255, 165, 153)}
 #b {background-color: rgb(154, 185, 212)}
+#c {background-color: beige}
+
+#o {background:gray}
 a{
   text-align: center;
   display: inline-block;
@@ -8,5 +14,6 @@ a{
 }
 .centrado{margin:10px auto; display: block;}
 h1 {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif}
-p{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
+p{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial}
 body{background-color: black}
+a:hover{background-color:white;color:brown}
